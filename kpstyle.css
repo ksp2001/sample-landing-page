@@ -1,0 +1,131 @@
+body {
+	background: #1f1d1d;
+	margin:0;
+	color:#fff;
+	font-family: century gothic;
+}
+
+nav {
+	width:69px;
+	background:#131313;
+	height:100vh;
+	font-size:1.6rem;
+}
+
+.current {
+	/* this specifies the color for the navbar icon currently in use, ie home will be pink on home screen*/
+	color:#f02069;
+}
+
+.main-grid {
+	display: grid;
+	grid-template-columns: 69px 723px 550px;
+}
+.grid5 {
+	margin-top:35px;
+	text-align:center;
+	display:grid;
+	grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+	grid-gap:25px;
+	transition: all 1000ms;
+}
+
+a.current {
+	color:#f02069;
+}
+
+nav a:hover {
+	color:#f02069;
+}
+
+a {
+	color:#fff;
+}
+
+.intro {
+	margin:100px 0px 100px 82px;
+	font-size: 120px;
+	font-weight: bold;
+	line-height:120px;
+}
+
+.pinkcolor {
+	color:#f02069;
+}
+
+.bluecolor {
+	color:#9acce4;
+}
+
+.tagline {
+	margin:-90px 88px;
+	font-size: 23px;
+	font-weight: bold;
+}
+
+.aboutme {
+	font-size:18px;
+	margin:200px 223px 0px 223px;
+}
+
+a.arrowfront {
+	color:#f02069;
+}
+
+.confetti {
+	margin-left:50px;
+	margin-top:53px;
+}
+
+.thickline {
+	font-size:24px;
+	font-weight: bold;
+	margin-left:60px;
+}
+
+.idothis {
+	font-size:42px;
+	margin-left:270px;
+	margin-top: -40px;
+	font-weight: bold;
+
+}
+
+.whatidocontain {
+	margin-top:10px;
+	margin-left:60px;
+	margin-right:85px;
+	word-spacing:20px;
+}
+
+a.whatidoicons {
+	font-size:60px;
+	text-align:right;
+	color:#fff;
+	text-decoration:none;
+}
+
+a.blue {
+	color:#9acce4;
+}
+
+a.line2 {
+	font-size:48px;
+}
+
+.fontsize48 {
+	font-size:48px;
+	font-weight:bold;
+	line-height:40px;
+}
+
+.social{
+	margin-right:85px;
+	text-align:right;
+	margin-top:110px;
+	word-spacing:10px;
+}
+a.socialicon {
+	font-size:35px;
+	color:#fff;
+}
