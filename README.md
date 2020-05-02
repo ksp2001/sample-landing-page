@@ -1,8 +1,27 @@
-# landing page for a personal website
-A website layout to apply the fundamentals of HTML, CSS and CSS grid, not using bootstrap or javascript.
-Includes use of media queries to make it responsive over a variety of devices.
-What needs to be improved - uses pixels to position different elements, meaning it will be different over different devices.
-For my projects after this, I've learned to use rem units to help make the sites responsive.
+# STATIC LANDING PAGE
 
+Creating a single page, static website as a landing page. Attempt with darker shades, more colours, and graphics. Is mobile compatible. Pure HTML and CSS.
 
-you can view this on https://kspsample.netlify.com/
+## Getting started 🎬
+
+Available at https://kspsample.netlify.app/
+
+### Prerequisites 🧺
+
+None at the moment.
+
+## Built With 🔨
+
+* HTML and CSS
+
+## Author 📚
+
+* **Ketki Panse** - *Github* - [ksp2001](https://github.com/ksp2001)
+
+## License 🎫
+
+This project is licensed under the MIT License
+
+## Acknowledgments 🎖
+
+* None at the moment.
